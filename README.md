@@ -3,7 +3,7 @@
 
 ![packet](https://github.com/nperma/Example_Script/assets/129764133/f52f772f-8a9d-4a6d-a14e-c5045b2d74e3)
 
-Hi, I'm Rifky — a creator of Minecraft Bedrock addons || software engineer.
+Hi, I'm Rifky — a creator of Minecraft Bedrock addons && a software engineer.
 
 ---
 
@@ -17,10 +17,10 @@ Hi, I'm Rifky — a creator of Minecraft Bedrock addons || software engineer.
 
 ![HTML](https://img.shields.io/badge/HTML-333?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-333?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-333?style=for-the-badge&logo=react&logoColor=white)
 
 ![npm](https://img.shields.io/badge/npm-333?style=for-the-badge&logo=npm&logoColor=white)
